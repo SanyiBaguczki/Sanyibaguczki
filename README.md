@@ -1,2 +1,2 @@
-markdown
+
 ![Banner](banner.jpg)
