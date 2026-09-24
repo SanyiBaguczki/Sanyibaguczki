@@ -1,2 +1,1 @@
-
 ![Banner](banner.jpg)
